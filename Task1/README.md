@@ -14,3 +14,4 @@
 ![it_landscape.drawio.png](it_landscape.drawio.png)
 
 ### Схема интеграции приложений
+![c4_context.drawio.png](c4_context.drawio.png)
