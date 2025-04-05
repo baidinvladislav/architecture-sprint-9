@@ -43,4 +43,4 @@
 3. <b>Отсутствие логов и уведомлений:</b> неудобно отлаживать ошибки, если передача не сработала
 
 ### <a name="_bjrr7veeh80c"></a>**Roadmap работ проекта**
-![roadmap_bank_standart-Roadmap.drawio.png](roadmap_bank_standart-Roadmap.drawio.png)
+![roadmap_bank_standart-Roadmap.drawio.png](roadmap_bank_standart.drawio.png)
