@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="TNsit0grVaMXO2zefznl">
-    <mxGraphModel dx="5640" dy="3163" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4025" dy="2304" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,9 +114,9 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Description="Оформление продаж &#xa;от кол-центра" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="zCH2pD3PyNN-58KWQiN4-17">
+        <object placeholders="1" c4Type="Relationship" c4Description="Получение данных о заявки,&#xa;в том числе номера клиента" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="zCH2pD3PyNN-58KWQiN4-17">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zCH2pD3PyNN-58KWQiN4-6" edge="1">
-            <mxGeometry x="0.1676" width="240" relative="1" as="geometry">
+            <mxGeometry x="0.2158" width="240" relative="1" as="geometry">
               <mxPoint x="-459" y="440" as="sourcePoint" />
               <mxPoint x="16" y="588" as="targetPoint" />
               <Array as="points">
@@ -300,7 +300,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="BeyMkElsynZ_XJMqjCpW-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bank;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="BeyMkElsynZ_XJMqjCpW-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bank;fillColor=#5294CF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-29" y="-434" width="122" height="121.5" as="geometry" />
         </mxCell>
       </root>
