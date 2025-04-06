@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1" pages="2">
   <diagram id="1zcTAVt1k4KSup7FvAfL" name="Roadmap">
-    <mxGraphModel dx="6332" dy="3722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="9864" dy="5444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="3D7FDG2aXA9G618_Kong-0" />
         <mxCell id="3D7FDG2aXA9G618_Kong-1" parent="3D7FDG2aXA9G618_Kong-0" />
@@ -122,10 +122,10 @@
           <mxGeometry x="780" y="-954.2" width="775" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tKpiIrhWGHR_NGs2t0jh-117" value="Доступность 99.9% за счёт переключение ЦОДов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="2439" y="-741" width="740" height="50" as="geometry" />
+          <mxGeometry x="787" y="-738" width="858" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tKpiIrhWGHR_NGs2t0jh-118" value="Шифрование трафика (между клиентом, сайтом, онлайн-банком, АБС)" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="3195" y="-708" width="827" height="50" as="geometry" />
+          <mxGeometry x="1655" y="-738" width="710" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tKpiIrhWGHR_NGs2t0jh-119" value="Документация архитектуры и бизнес процессов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
           <mxGeometry x="2443" y="-1611" width="1227" height="50" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="2449" y="-959.9999999999999" width="1227" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tKpiIrhWGHR_NGs2t0jh-137" value="Документация архитектуры и бизнес процессов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="3192" y="-777" width="827" height="50" as="geometry" />
+          <mxGeometry x="2440" y="-738" width="1235" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
