@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="vCLyMMl_M-aFY95efaUr">
-    <mxGraphModel dx="4780" dy="1157" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="-1324" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,9 +402,6 @@
             <mxGeometry x="1103" y="3314" width="535" height="429" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="IA5aTT8d42nJBYP4qBS0-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://st3.depositphotos.com/3591429/18305/i/450/depositphotos_183058674-stock-photo-illustration-bank-icon.jpg;" parent="1" vertex="1">
-          <mxGeometry x="1126" y="1783" width="273" height="273" as="geometry" />
-        </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Description="Проходит идентификацию &#xa;в отделении банка" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="IA5aTT8d42nJBYP4qBS0-47">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IA5aTT8d42nJBYP4qBS0-39" edge="1">
             <mxGeometry x="-0.5568" y="1" width="240" relative="1" as="geometry">
@@ -480,7 +477,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTP" c4Description="Запрашивает данные &#xa;по актуальным ставкам" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="aEgdAdOniTbVE2OO0MHS-2">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=light-dark(#8F8F0A,#838310);strokeWidth=1;endFill=1;strokeColor=light-dark(#8F8F0A,#838310);elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="IA5aTT8d42nJBYP4qBS0-54">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=light-dark(#8F8F0A,#838310);strokeWidth=1;endFill=1;strokeColor=light-dark(#8F8F0A,#838310);elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="IA5aTT8d42nJBYP4qBS0-54" edge="1">
             <mxGeometry x="-0.2227" width="240" relative="1" as="geometry">
               <mxPoint x="446" y="2509" as="sourcePoint" />
               <mxPoint x="915" y="2732" as="targetPoint" />
@@ -494,13 +491,16 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Description="CRON джоба процентных ставки &#xa;в XLS-файлах &#xa;по SFTP-протоколу раз в день" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" id="aEgdAdOniTbVE2OO0MHS-3">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=light-dark(#8F8F0A,#838310);strokeWidth=1;endFill=1;strokeColor=light-dark(#8F8F0A,#838310);elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IA5aTT8d42nJBYP4qBS0-25" target="IA5aTT8d42nJBYP4qBS0-56">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=light-dark(#8F8F0A,#838310);strokeWidth=1;endFill=1;strokeColor=light-dark(#8F8F0A,#838310);elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IA5aTT8d42nJBYP4qBS0-25" target="IA5aTT8d42nJBYP4qBS0-56" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="349" y="2751" as="sourcePoint" />
               <mxPoint x="-52" y="2762" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="Pz3jZnobKRHstRMJGk_5-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bank;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="1866" width="122" height="121.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
